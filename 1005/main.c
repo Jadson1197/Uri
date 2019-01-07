@@ -2,7 +2,6 @@
 
 int main() {
  double A,B,media;
-
     scanf("%lf",&A);
     scanf("%lf",&B);
 
